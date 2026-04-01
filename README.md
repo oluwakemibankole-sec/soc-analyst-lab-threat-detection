@@ -40,3 +40,6 @@ This repository showcases hands-on SOC Analyst skills through simulated threat d
 - Threat investigation
 - Incident documentation
 - Security reporting
+
+## 🖥️ Event Viewer Overview
+![Event Viewer Overview](images/event-viewer-overview.png)
