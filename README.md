@@ -80,3 +80,14 @@ This case simulates a suspected brute-force attack against a Windows endpoint.
 
 ### PowerShell Event Details
 ![PowerShell Event Details](images/powershell-event-details.png)
+
+## 📸 Phishing IOC Investigation Evidence
+
+### Suspicious Email
+![Phishing Email](images/phishing-email-overview.png)
+
+### IOC Extraction
+![IOC Analysis](images/phishing-ioc-analysis.png)
+
+### Threat Intelligence Validation
+![VirusTotal Check](images/virustotal-url-check.png)
