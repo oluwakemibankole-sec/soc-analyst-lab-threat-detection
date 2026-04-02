@@ -69,3 +69,14 @@ This case simulates a suspected brute-force attack against a Windows endpoint.
 
 ### Failed Login Event Details
 ![Failed Login Details](images/failed-login-details.png)
+
+## 📸 Suspicious PowerShell Investigation Evidence
+
+### PowerShell Log Overview
+![PowerShell Overview](images/powershell-overview.png)
+
+### PowerShell Event Log
+![PowerShell Event Log](images/powershell-event-log.png)
+
+### PowerShell Event Details
+![PowerShell Event Details](images/powershell-event-details.png)
