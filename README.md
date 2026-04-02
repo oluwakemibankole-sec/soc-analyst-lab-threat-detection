@@ -63,3 +63,9 @@ This case simulates a suspected brute-force attack against a Windows endpoint.
 
 ## 🖥️ Event Viewer Overview
 ![Event Viewer Overview](images/event-viewer-overview.png)
+
+### Failed Login Events
+![Failed Login Events](images/failed-logins.png)
+
+### Failed Login Event Details
+![Failed Login Details](images/failed-login-details.png)
